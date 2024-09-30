@@ -1,0 +1,14 @@
+---
+title: "Favorites"
+---
+
+Favorite TV Shows:
+- The Good Doctor
+- Avatar the Last Air Bender
+
+
+Favorite Foods:
+- Fruits
+- Vegetables
+- Vietnamese Food
+---

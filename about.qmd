@@ -1,0 +1,40 @@
+---
+title: "About Me"
+---
+
+Introduction:
+
+Katie Hoang is a Software Engineer at Cyberkinetics LLC. with a demonstrated history of working in the information technology and services industry. Skilled in Java, Tableau, SPSS, Microsoft Office, SAS, Amazon Web Services (AWS), and RStudio Cloud. Strong information technology professional with a Bachelor's Degree focused in Management Information Systems and Operations Management from George Mason University - School of Business. Pursuing a Master's Degree in Data Analytics Engineering from George Mason University - College of Engineering and Computing.
+
+Work Experience:
+
+-   Software Engineer at CyberKinetics LLC. (October 2022 - Present)
+
+-   Software Engineer at Avantus Federal (March 2022 - October 2022)
+
+-   Privileged Access Management Engineer at Booz Allen Hamilton (June 2021 - March 2022)
+
+-   CyberSecurity Consultant at Clango Inc. (July 2020 - June 2021)
+
+-   IT Assistant at George Mason University - School of Business (July 2019 - October 2019)
+
+Education:
+
+-   George Mason University - College of Engineering and Computing: M.S. Data Analytics Engineering (August 2024 - Present)
+
+-   George Mason University - Costello College of Business: B.S. Information Systems and Operations Management, Minor in Business Analytics (August 2016 - May 2020)
+
+Licenses and Certifications:
+
+-   CyberArk Certified Delivery Engineer PAM (CDE-PAM)
+
+-   CyberArk Certified Defender
+
+-   CyberArk Certified Sentry
+
+-   CyberArk Certified Trustee
+
+-   Amazon Web Services Cloud Practitioner
+
+```         
+```

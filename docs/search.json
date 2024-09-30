@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Introduction Page",
+    "section": "",
+    "text": "This is a demo website serves as chance for you to get to know me including my background, favorites, and my volunteer involvement outside of work and school!"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "Introduction:\nKatie Hoang is a Software Engineer at Cyberkinetics LLC. with a demonstrated history of working in the information technology and services industry. Skilled in Java, Tableau, SPSS, Microsoft Office, SAS, Amazon Web Services (AWS), and RStudio Cloud. Strong information technology professional with a Bachelor’s Degree focused in Management Information Systems and Operations Management from George Mason University - School of Business. Pursuing a Master’s Degree in Data Analytics Engineering from George Mason University - College of Engineering and Computing.\nWork Experience:\n\nSoftware Engineer at CyberKinetics LLC. (October 2022 - Present)\nSoftware Engineer at Avantus Federal (March 2022 - October 2022)\nPrivileged Access Management Engineer at Booz Allen Hamilton (June 2021 - March 2022)\nCyberSecurity Consultant at Clango Inc. (July 2020 - June 2021)\nIT Assistant at George Mason University - School of Business (July 2019 - October 2019)\n\nEducation:\n\nGeorge Mason University - College of Engineering and Computing: M.S. Data Analytics Engineering (August 2024 - Present)\nGeorge Mason University - Costello College of Business: B.S. Information Systems and Operations Management, Minor in Business Analytics (August 2016 - May 2020)\n\nLicenses and Certifications:\n\nCyberArk Certified Delivery Engineer PAM (CDE-PAM)\nCyberArk Certified Defender\nCyberArk Certified Sentry\nCyberArk Certified Trustee\nAmazon Web Services Cloud Practitioner"
+  },
+  {
+    "objectID": "Favorites.html",
+    "href": "Favorites.html",
+    "title": "Favorites",
+    "section": "",
+    "text": "Favorite TV Shows:\n\nThe Good Doctor\nAvatar the Last Air Bender\n\nFavorite Foods:\n\nFruits\nVegetables\nVietnamese Food\n\nFavorite Color:\n\nBlue\n\nFavorite Music:\n\nEDM (Illenium and Zedd)\nRhythm and Blues\nSoul Music"
+  },
+  {
+    "objectID": "Organization Involvement.html",
+    "href": "Organization Involvement.html",
+    "title": "Organization Involvement Outside of School",
+    "section": "",
+    "text": "Volunteer Positions:\n\nSigma Psi Zeta Sorority, Inc. Regional Director (July 2023 - Present)\nMid-Atlantic Union of Vietnamese Student Associations Advisor (July 2022 - June 2023)\nMid-Atlantic Union of Vietnamese Student Associations Food Committee Member (May 2022 - July 2022)\nUnion of North American Vietnamese Student Associations Programming Committee Member (November 2021 - July 2022)\nMid-Atlantic Union of Vietnamese Student Associations Secretary (May 2021 - July 2022)\nMid-Atlantic Union of Vietnamese Student Associations MAC X Executive Team (September 2021 - February 2022)\nMid-Atlantic Union of Vietnamese Student Associations MAC IX/X Sponsorship Chairperson (September 2020 - February 2022)\nMid-Atlantic Union of Vietnamese Student Associations MLC 8 Logistics Chairperson (June 2021 - August 2021)\nMid-Atlantic Union of Vietnamese Student Associations Alumni Association Chairperson (September 2020 - May 2021)\nSigma Psi Zeta Sorority, Inc. Alpha Nu Chapter Secretary (May 2019 - May 2020)\nSigma Psi Zeta Sorority, Inc. Alpha Nu Chapter Fundraising Chairperson (November 2018 - May 2019)\nSigma Psi Zeta Sorority, Inc. Alpha Nu Chapter Treasurer (November 2017 - May 2019)"
+  }
+]
